@@ -60,3 +60,5 @@ build/
 mvnw*
 .mvn*
 logs*
+
+Tempseqserver*
